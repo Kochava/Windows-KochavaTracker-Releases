@@ -4,7 +4,7 @@ The Kochava Windows SDK is a lightweight plugin which can be easily integrated i
 [![Download](https://img.shields.io/github/v/release/Kochava/Windows-KochavaTracker-Releases?include_prereleases&sort=semver)](https://github.com/Kochava/Windows-KochavaTracker-Releases/releases)
 
 ### Installation
-[Windows - SDK Integration](https://support.kochava.com/sdk-integration/windows-sdk-integration/)
+[SDK Integration](https://support.kochava.com/sdk-integration/windows-sdk-integration/)
 
 ### Support
 support@kochava.com
